@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syoshinsya1209.github.io/localtools/sitemap.xml

@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://syoshinsya1209.github.io/localtools/</loc>
-  </url>
-  <url>
-    <loc>https://syoshinsya1209.github.io/localtools/about/</loc>
-  </url>
-  <url>
-    <loc>https://syoshinsya1209.github.io/localtools/privacy/</loc>
-  </url>
-  <url>
-    <loc>https://syoshinsya1209.github.io/localtools/contact/</loc>
-  </url>
-  <url>
-    <loc>https://syoshinsya1209.github.io/localtools/tools/assetmap/</loc>
-  </url>
+  <url><loc>https://syoshinsya1209.github.io/localtools/</loc></url>
+  <url><loc>https://syoshinsya1209.github.io/localtools/tools/assetmap/</loc></url>
+  <url><loc>https://syoshinsya1209.github.io/localtools/about/</loc></url>
+  <url><loc>https://syoshinsya1209.github.io/localtools/privacy/</loc></url>
+  <url><loc>https://syoshinsya1209.github.io/localtools/contact/</loc></url>
 </urlset>
