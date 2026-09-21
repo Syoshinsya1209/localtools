@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const q=document.querySelector('[data-tool-search]');if(q){q.addEventListener('input',()=>{const s=q.value.trim().toLowerCase();document.querySelectorAll('[data-tool]').forEach(c=>{c.style.display=!s||c.textContent.toLowerCase().includes(s)?'block':'none'})})}});
